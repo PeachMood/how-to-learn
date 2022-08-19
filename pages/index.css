@@ -1,6 +1,10 @@
 /*Clears browser styles*/
 @import url(../vendor/normalize.css);
 
+/*Keyframes for rotation animation*/
+@import url(../blocks/rotation/rotation.css);
+@import url(../blocks/rotation/__keyframes/rotation__keyframes.css);
+
 /*Clears browser styles for text elements*/
 @import url(../blocks/text/text.css);
 
