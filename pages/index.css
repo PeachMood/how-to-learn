@@ -35,6 +35,16 @@
 /*Styles for the description block*/
 @import url(../blocks/description/description.css);
 
+/*Styles for the techniques block*/
+@import url(../blocks/techniques/techniques.css);
+
+/*Styles for the cards block*/
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
+
 /*Styles for the two-columns block*/
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
