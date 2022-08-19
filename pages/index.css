@@ -38,6 +38,14 @@
 /*Styles for the techniques block*/
 @import url(../blocks/techniques/techniques.css);
 
+/*Styles for the video block*/
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+
+/*Styles for the oakley block*/
+@import url(../blocks/oakley/oakley.css);
+
 /*Styles for the cards block*/
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
