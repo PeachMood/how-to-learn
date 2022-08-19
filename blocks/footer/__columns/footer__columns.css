@@ -1,0 +1,11 @@
+.footer__columns {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  width: 90%;
+  /*Исправление проблемы с наследованием min-height в Сhrome и Safari
+  https://stackoverflow.com/questions/8468066/child-inside-parent-with-min-height-100-not-inheriting-height*/
+  min-height: inherit;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
