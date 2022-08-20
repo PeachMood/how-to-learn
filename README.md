@@ -1,5 +1,6 @@
 # How to learn
 A small informative website for getting acquainted with effective learning methods
+
 ![Project presentation](./images/project-presentation.png)
 
 ## Technologies
