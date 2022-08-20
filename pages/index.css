@@ -14,6 +14,9 @@
 /*Styles for links*/
 @import url(../blocks/link/link.css);
 
+/*Styles for clearing margins*/
+@import url(../blocks/zero-margins/zero-margins.css);
+
 /*Styles for horizontal centering*/
 @import url(../blocks/centered-horizontally/centered-horizontally.css);
 
@@ -38,6 +41,14 @@
 /*Styles for the techniques block*/
 @import url(../blocks/techniques/techniques.css);
 
+/*Styles for the section-title block*/
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+
+/*Styles for the section-title block*/
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+
 /*Styles for the video block*/
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
@@ -53,6 +64,7 @@
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 
+
 /*Styles for the two-columns block*/
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
@@ -63,13 +75,17 @@
 /*Styles for the digits block*/
 @import url(../blocks/digits/digits.css);
 
-/*Styles for the section-title block*/
-@import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
-
-/*Styles for the section-subtitle block*/
-@import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+/*Styles for the khan block*/
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/khan/__container/khan__container.css);
+@import url(../blocks/khan/__author/khan__author.css);
+@import url(../blocks/khan/__title/khan__title.css);
+@import url(../blocks/khan/__quote/khan__quote.css);
+@import url(../blocks/khan/__quote-author/khan__quote-author.css);
+@import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
+@import url(../blocks/khan/__book-container/khan__book-container.css);
+@import url(../blocks/khan/__book-pic/khan__book-pic.css);
+@import url(../blocks/khan/__buy-link/khan__buy-link.css);
 
 /*Styles for the table block*/
 @import url(../blocks/table/table.css);
