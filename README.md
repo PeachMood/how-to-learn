@@ -1,4 +1,4 @@
-# How to learn
+# How to learn website
 A small informative website for getting acquainted with effective learning methods
 
 ![Project presentation](./images/project-presentation.png)
