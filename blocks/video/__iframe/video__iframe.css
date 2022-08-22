@@ -1,9 +1,5 @@
 .video__iframe {
-  width: 515px;
-  height: 316px;
+  width: inherit;
+  height: inherit;
   border: 0;
-}
-
-.video__iframe:last-child {
-  margin-left: 20px;
 }
