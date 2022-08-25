@@ -1,4 +1,4 @@
-# How to learn website
+# How to learn website [rus](./README.ru.md)
 A small informative website for getting acquainted with effective learning methods
 
 ![Project presentation](./images/project-presentation.png)
